@@ -15,6 +15,6 @@ jobs:
     steps:
       - uses: tgymnich/fork-sync@v1.8
         with:
-          owner: LibreSpark
+          owner: xqpmjh
           base: main
           head: main
