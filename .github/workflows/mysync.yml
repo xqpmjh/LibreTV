@@ -2,7 +2,7 @@ name: Sync Fork
 
 on:
   schedule:
-    - cron: '* 16 * * *'
+    - cron: '0 16 * * *'
   workflow_dispatch: # on button click
 
 permissions:
